@@ -25,12 +25,6 @@ int main(){
 		}
                 aux[j] = cont;
 		j++;
-                for(i=0;i<k && j<N;i++){
-                        if( array[j] == temp[k]){
-                                j++;
-                                i=0;
-                        }
-                }
                 k++;
 	}
         cont = 0;
