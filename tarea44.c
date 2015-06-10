@@ -1,4 +1,4 @@
-trest//Bastian Escalona Morales
+//Bastian Escalona Morales
 //Tarea Numero 4 , Lenguaje de Programacion.
 #include <stdio.h>
 #define N 30
